@@ -1,6 +1,5 @@
 import React, { Component } from 'react';
-import { View, StyleSheet, StatusBar, Image, Text } from 'react-native';
-import { StackActions } from '@react-navigation/native';
+import { View, Text } from 'react-native';
 
 class LoginScreen extends Component {
 
